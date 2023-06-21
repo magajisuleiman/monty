@@ -34,5 +34,3 @@ void (*get_op_func(char *token1))(stack_t **stack, unsigned int line)
 	}
 	return (NULL);
 }
-__func.c
-Displaying __func.c.
